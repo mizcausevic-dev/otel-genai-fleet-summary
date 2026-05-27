@@ -1,0 +1,29 @@
+{
+  "resourceSpans": [
+    {
+      "resource": { "attributes": [{ "key": "service.name", "value": { "stringValue": "research-agent" } }] },
+      "scopeSpans": [
+        {
+          "scope": { "name": "anthropic-claude" },
+          "spans": [
+            {
+              "name": "chat claude-sonnet-4",
+              "kind": 3,
+              "startTimeUnixNano": "1718000000000000000",
+              "endTimeUnixNano": "1718000001000000000",
+              "status": { "code": 1 },
+              "attributes": [
+                { "key": "gen_ai.provider.name", "value": { "stringValue": "anthropic" } },
+                { "key": "gen_ai.request.model", "value": { "stringValue": "claude-sonnet-4" } },
+                { "key": "gen_ai.operation.name", "value": { "stringValue": "chat" } },
+                { "key": "gen_ai.usage.input_tokens", "value": { "intValue": "1200" } },
+                { "key": "gen_ai.usage.output_tokens", "value": { "intValue": "400" } },
+                { "key": "gen_ai.usage.cost", "value": { "doubleValue": 0.0048 } }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

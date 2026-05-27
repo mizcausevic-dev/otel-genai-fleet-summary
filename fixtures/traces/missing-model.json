@@ -1,0 +1,19 @@
+{
+  "resourceSpans": [
+    {
+      "scopeSpans": [
+        {
+          "spans": [
+            {
+              "name": "chat unknown",
+              "status": { "code": 1 },
+              "attributes": [
+                { "key": "gen_ai.provider.name", "value": { "stringValue": "anthropic" } }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
