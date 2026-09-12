@@ -13,7 +13,7 @@ Fleet-summary for [OTel GenAI](https://opentelemetry.io/docs/specs/semconv/gen-a
 - [`evidence-bundle-fleet-summary`](https://github.com/mizcausevic-dev/evidence-bundle-fleet-summary) — evidence bundles
 - **`otel-genai-fleet-summary`** — OTel GenAI OTLP traces
 
-Part of the [Kinetic Gain Suite](https://suite.kineticgain.com/).
+Unlike its quintet siblings, this one summarizes OTel GenAI OTLP spans rather than a Kinetic Gain Protocol Suite disclosure artifact.
 
 ---
 
